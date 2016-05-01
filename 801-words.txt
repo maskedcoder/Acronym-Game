@@ -1,0 +1,298 @@
+AC alternating current
+ACL access control list
+ACPI advanced configuration power interface
+ACT activity
+ADSL asymmetrical digital subscriber line
+AGP accelerated graphics port
+AHCI Advanced host controller interface
+AMD advanced micro devices
+AP Access point
+APIPA automatic private internet protocol addressing
+APM advanced power management
+ARP address resolution protocol
+ASR automated system recovery
+ATA advanced technology attachment
+ATAPI advanced technology attachment packet interface
+ATM asynchronous transfer mode
+ATX advanced technology extended
+A/V Audio Video
+BIOS basic input/output system
+BNC Bayonet-Neill-Concelman or British Naval Connector
+BTX balanced technology extended
+CAPTCHA Completely Automated Public Turing Test To Tell Computers and Humans Apart
+CCFL Cold Cathode Fluorescent Lamp
+CD compact disc
+CD-ROM compact disc-read-only memory
+CD-RW compact disc-rewritable
+CDFS compact disc file system
+CFS Central File System or Common File System or Command File System
+CIFS Common Internet File System
+CMOS complementary metal-oxide semiconductor
+CNR Communications and Networking Riser
+COMx communication port (x=port number)
+CPU central processing unit
+CRIMM Continuity Rambus Inline Memory Mode
+CRT cathode-ray tube
+DAC discretionary access control
+DB-25 serial communications D-shell connector, 25 pins
+DB-9 9 pin D shell connector
+DC direct current
+DDOS distributed denial of service
+DDR double data-rate
+DDR RAM double data-rate random access memory
+DDR SDRAM double data-rate synchronous dynamic random access memory
+DFS distributed file system
+DHCP dynamic host configuration protocol
+DIMM dual inline memory module
+DIN Deutsche Industrie Norm
+DIP dual inline package
+DLT digital linear tape
+DLP digital light processing
+DMA direct memory access
+DMZ demilitarized zone
+DNS domain name service or domain name server
+DOS denial of service
+DRAM dynamic random access memory
+DSL digital subscriber line
+DVD digital video disc or digital versatile disc
+DVD-RAM digital video disc-random access memory
+DVD-ROM digital video disc-read only memory
+DVD-R digital video disc-recordable
+DVD-RW digital video disc-rewritable
+DVI digital visual interface
+ECC error correction code
+ECP extended capabilities port
+EEPROM electrically erasable programmable read-only memory
+EFS encrypting file system
+EIDE enhanced integrated drive electronics
+EMI electromagnetic interference
+EMP electromagnetic pulse
+EPROM erasable programmable read-only memory
+EPP enhanced parallel port
+ERD emergency repair disk
+ESD electrostatic discharge
+EVGA extended video graphics adapter/array
+EVDO evolution data optimized or evolution data only
+FAT file allocation table
+FAT12 12-bit file allocation table
+FAT16 16-bit file allocation table
+FAT32 32-bit file allocation table
+FDD floppy disk drive
+Fn Function or Function (referring to the function key on a laptop)
+FPM fast page-mode
+FRU field replaceable unit
+FSB Front Side Bus
+FTP file transfer protocol
+FQDN fully qualified domain name
+Gb gigabit
+GB gigabyte
+GDI graphics device interface
+GHz gigahertz
+GUI graphical user interface
+GPS global positioning system
+GSM global system for mobile communications
+HAL hardware abstraction layer
+HAV Hardware Assisted Virtualization
+HCL hardware compatibility list
+HDD hard disk drive
+HDMI high definition media interface
+HPFS high performance file system
+HTML hypertext markup language
+HTPC Home theater PC
+HTTP hypertext transfer protocol
+HTTPS hypertext transfer protocol over secure sockets layer
+I/O input/output
+ICMP internet control message protocol
+ICR intelligent character recognition
+IDE integrated drive electronics
+IDS Intrusion Detection System
+IEEE Institute of Electrical and Electronics Engineers
+IIS Internet Information Services
+IMAP internet mail access protocol
+IP internet protocol
+IPCONFIG internet protocol configuration
+IPP internet printing protocol
+IPSEC internet protocol security
+IR infrared
+IrDA Infrared Data Association
+IRQ interrupt request
+ISA industry standard architecture
+ISDN integrated services digital network
+ISO Industry Standards Organization
+ISP internet service provider
+JBOD just a bunch of disks
+Kb kilobit
+KB Kilobyte or knowledge base
+LAN local area network
+LBA logical block addressing
+LC Lucent connector
+LCD liquid crystal display
+LDAP lightweight directory access protocol
+LED light emitting diode
+Li-on lithium-ion
+LPD/LPR line printer daemon / line printer remote
+LPT line printer terminal
+LVD low voltage differential
+MAC media access control / mandatory access control
+MAPI messaging application programming interface
+MAU media access unit or media attachment unit
+Mb megabit
+MB megabyte
+MBR master boot record
+MBSA Microsoft Baseline Security Analyzer
+MCA Micro Channel Architecture
+MFD multi-function device
+MFP multi-function product
+MHz megahertz
+MicroDIMM micro dual inline memory module
+MIDI musical instrument digital interface
+MIME multipurpose internet mail extension
+MIMO Multiple Input Multiple Output
+MMC Microsoft management console
+MMX multimedia extensions
+MP3 Moving Picture Experts Group Layer 3 Audio
+MP4 Moving Picture Experts Group Layer 4
+MPEG Moving Picture Experts Group
+MSCONFIG Microsoft configuration
+MSDS material safety data sheet
+MUI multilingual user interface
+NAC network access control
+NAS network-attached storage
+NAT network address translation
+NetBIOS networked basic input/output system
+NetBEUI networked basic input/output system extended user interface
+NFS network file system
+NIC network interface card
+NiCd nickel cadmium
+NiMH nickel metal hydride
+NLX new low-profile extended
+NNTP network news transfer protocol
+NTFS new technology file system
+NTLDR new technology loader
+NTP Network Time Protocol
+OCR optical character recognition
+OEM original equipment manufacturer
+OLED Organic Light Emitting Diode
+OS operating system
+PAN personal area network
+PATA parallel advanced technology attachment
+PC personal computer
+PCI peripheral component interconnect
+PCIe peripheral component interconnect express
+PCIX peripheral component interconnect extended
+PCL printer control language
+PCMCIA Personal Computer Memory Card International Association
+PDA personal digital assistant
+PGA pin grid array
+PGA2 pin grid array 2
+PII Personally Identifiable Information
+PIN personal identification number
+PKI public key infrastructure
+PnP plug and play
+POP3 post office protocol 3
+PoS Point of Sale
+POST power-on self test
+POTS plain old telephone service
+PPP point-to-point protocol
+PPTP point-to-point tunneling protocol
+PRI primary rate interface
+PROM programmable read-only memory
+PS/2 personal system/2 connector
+PSTN public switched telephone network
+PSU power supply unit
+PVC permanent virtual circuit
+PXE preboot execution environment
+QoS quality of service
+RAID redundant array of independent (or inexpensive) discs
+RAM random access memory
+RAS remote access service
+RDRAM RAMBUS dynamic random access memory
+RDP Remote Desktop Protocol
+RF radio frequency
+RFI radio frequency interference
+RGB red green blue
+RIMM RAMBUS inline memory module
+RIP routing information protocol
+RIS remote installation service
+RISC reduced instruction set computer
+RJ registered jack
+RJ-11 registered jack function 11
+RJ-45 registered jack function 45
+RMA returned materials authorization
+ROM read only memory
+RS-232 or RS-232C recommended standard 232
+RTC real-time clock
+SAN storage area network
+SAS Serial Attached SCSI
+SATA serial advanced technology attachment
+SC subscription channel
+SCP secure copy protection
+SCSI small computer system interface
+SCSI ID small computer system interface identifier
+SD card secure digital card
+SDRAM synchronous dynamic random access memory
+SEC single edge connector
+SFC system file checker
+SFF Small Form Factor
+SGRAM synchronous graphics random access memory
+SIMM single inline memory module
+SLI scalable link interface or system level integration or scanline interleave mode
+S.M.A.R.T. self-monitoring, analysis, and reporting technology
+SMB server message block or small to midsize business
+SMTP simple mail transfer protocol
+SNMP simple network management protocol
+SoDIMM small outline dual inline memory module
+SOHO small office/home office
+SP service pack
+SP1 service pack 1
+SP2 service pack 2
+SP3 service pack 3
+SP4 service pack 4
+SPDIF Sony-Philips digital interface format
+SPGA staggered pin grid array
+SRAM static random access memory
+SSH secure shell
+SSID service set identifier
+SSL secure sockets layer
+ST straight tip
+STP shielded twisted pair
+SVGA super video graphics array
+SXGA super extended graphics array
+TB terabyte
+TCP transmission control protocol
+TCP/IP transmission control protocol/internet protocol
+TDR time domain reflectometer
+TFTP trivial file transfer protocol
+TKIP Temporal Key Integrity Protocol
+TPM trusted platform module
+UAC user account control
+UART universal asynchronous receiver transmitter
+UDF user defined functions or universal disk format or universal data format
+UDMA ultra direct memory access
+UDP user datagram protocol
+UNC universal naming convention
+UPS uninterruptible power supply
+URL uniform resource locator
+USB universal serial bus
+USMT user state migration tool
+UTP unshielded twisted pair
+UXGA ultra extended graphics array
+VESA Video Electronics Standards Association
+VFAT virtual file allocation table
+VGA video graphics array
+VM Virtual Machine
+VoIP voice over internet protocol
+VPN virtual private network
+VRAM video random access memory
+WAN wide area network
+WAP wireless application protocol
+WEP wired equivalent privacy
+WIFI wireless fidelity
+WINS windows internet name service
+WLAN wireless local area network
+WPA wireless protected access
+WPS WiFi Protected Setup
+WUXGA wide ultra extended graphics array
+XGA extended graphics array
+ZIF zero-insertion-force
+ZIP zigzag inline package
